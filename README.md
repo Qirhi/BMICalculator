@@ -11,7 +11,7 @@ This app is a Body Mass Index calculator. Based on the user’s weight and heigh
 * Uses MVC design.
 * Uses both classes and structs.
 * Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
+* Appropriately uses classes and structs. 
+* Passes by value vs. pass by reference. 
+* Formats Strings. 
 * Color literals.
